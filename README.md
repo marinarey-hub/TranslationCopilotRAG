@@ -4,7 +4,7 @@ An open-source **Retrieval-Augmented Generation (RAG)** and **Localization Quali
 
 Optimized to run smoothly on Google Colab using a free T4 GPU via 4-bit quantization, this tool bridges the gap between massive style guides/glossaries and real-time translation workflows.
 
-Some example texts are provided for anyone to test the program.
+Some example texts are provided for anyone to test the program (GuideForMedTranslation, GuideForVideogame, SourceText_EN, and TargetText_ES).
 
 ---
 
