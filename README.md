@@ -1,6 +1,6 @@
 # 🌐 AI Translation RAG Copilot & LQA Auditor
 
-An advanced, open-source **Retrieval-Augmented Generation (RAG)** and **Localization Quality Assurance (LQA)** copilot designed for professional translators, localization engineers, and language service providers. 
+An open-source **Retrieval-Augmented Generation (RAG)** and **Localization Quality Assurance (LQA)** copilot designed for professional translators, localization engineers, and language service providers. 
 
 Optimized to run smoothly on Google Colab using a free T4 GPU via 4-bit quantization, this tool bridges the gap between massive style guides/glossaries and real-time translation workflows.
 
