@@ -1,4 +1,4 @@
-# 🌐 AI Translation RAG Copilot & LQA Auditor
+# 💬 AI Translation RAG Copilot & LQA Auditor
 
 An open-source **Retrieval-Augmented Generation (RAG)** and **Localization Quality Assurance (LQA)** copilot designed for professional translators, localization engineers, and language service providers. 
 
@@ -8,13 +8,13 @@ Some example texts are provided for anyone to test the program.
 
 ---
 
-## ✨ Key Features
+## 🎯 Key Features
 
-- **💬 Interactive RAG Copilot:** Ask questions about style guides, formatting rules, or ambiguous glossary terms and get instant, citation-backed answers.
-- **🔍 Automated LQA / QA Auditor:** Upload a Source PDF and a Target PDF (or paste text) to automatically audit translations block-by-block against the client's style guide, flagging terminology errors, formatting flaws, and stylistic violations.
-- **🎯 Dynamic Domain-Specific Prompting:** Instantly adapt the system's persona and focus via a dropdown selector (*GameLoc & Software, Life Sciences/Medical, Legal & Financial, Technical/Industrial, or General*).
-- **📂 Dynamic Vector Store (FAISS):** Upload any custom PDF style guide or glossary on-the-fly directly from the Streamlit web interface.
-- **⚙️ Edge-Optimized LLM:** Powered by **Qwen 2.5 (7B-Instruct)** running locally in 4-bit NF4 precision alongside multilingial embeddings (`paraphrase-multilingual-MiniLM-L12-v2`).
+- **Interactive RAG Copilot:** Ask questions about style guides, formatting rules, or ambiguous glossary terms and get instant, citation-backed answers.
+- **Automated LQA / QA Auditor:** Upload a Source PDF and a Target PDF (or paste text) to automatically audit translations block-by-block against the client's style guide, flagging terminology errors, formatting flaws, and stylistic violations.
+- **Dynamic Domain-Specific Prompting:** Instantly adapt the system's persona and focus via a dropdown selector (*GameLoc & Software, Life Sciences/Medical, Legal & Financial, Technical/Industrial, or General*).
+- **Dynamic Vector Store (FAISS):** Upload any custom PDF style guide or glossary on-the-fly directly from the Streamlit web interface.
+- **Edge-Optimized LLM:** Powered by **Qwen 2.5 (7B-Instruct)** running locally in 4-bit NF4 precision alongside multilingial embeddings (`paraphrase-multilingual-MiniLM-L12-v2`).
 
 ---
 
